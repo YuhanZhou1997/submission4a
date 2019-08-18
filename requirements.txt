@@ -1,8 +1,3 @@
-<<<<<<< d23666d5ee65593eb5edbb3afe8ad5bdb5c1057e
 numpy==1.16.3
 pandas==0.20.0
-=======
-numpy==1.16.3
-pandas==0.20.0
->>>>>>> first commit
 xgboost==0.82
